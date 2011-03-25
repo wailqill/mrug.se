@@ -1,0 +1,11 @@
+Date: 25 March 2011
+
+# Välkommen till MRUG
+
+Eller Malmö Ruby User Group som den också heter.
+
+Här finns inte så mycket information just nu, domänen och siten finns mest till för att ingen annan skulle göra anspråk på domänen.
+
+Mer information finns på [Meetup](http://www.meetup.com/malmo-ruby/).
+
+PS. Siten kommer bli finare. Ville bara få upp något fort och lätt.
